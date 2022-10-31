@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """some helper functions."""
 import numpy as np
-from loss import *
-from helpers import *
+from src.loss import *
+from src.helpers import *
 
 """
 For all functions in this file:
